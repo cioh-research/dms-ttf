@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the article below."
+title: "Data and code for: A time-to-full-warning criterion for reducing between-driver variability in drowsiness pre-warning timing"
+authors:
+  - family-names: Oh
+    given-names: Cheonin
+    affiliation: "Electronics and Telecommunications Research Institute (ETRI)"
+  - family-names: Kim
+    given-names: Woojin
+    affiliation: "Electronics and Telecommunications Research Institute (ETRI)"
+  - family-names: Lee
+    given-names: Myeongkyu
+    affiliation: "Purdue University"
+  - family-names: Pitts
+    given-names: Brandon J.
+    affiliation: "Purdue University"
+license: MIT
+repository-code: "https://github.com/cioh-research/dms-ttf"
+preferred-citation:
+  type: article
+  title: "A time-to-full-warning criterion for reducing between-driver variability in drowsiness pre-warning timing"
+  authors:
+    - family-names: Oh
+      given-names: Cheonin
+    - family-names: Kim
+      given-names: Woojin
+    - family-names: Lee
+      given-names: Myeongkyu
+    - family-names: Pitts
+      given-names: Brandon J.
+  journal: "Scientific Reports"
+  year: 2026

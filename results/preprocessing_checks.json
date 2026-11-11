@@ -1,0 +1,32 @@
+{
+ "frame_rate_hz": {
+  "mean": 20.783242744430527,
+  "min": 20.766706815633068,
+  "max": 20.808190103662792
+ },
+ "blink_onsets": {
+  "n": 12271,
+  "mean_opening_below_0_35": 12271
+ },
+ "closed_80_rows": {
+  "n": 33106,
+  "mean_opening_below_0_20": 33106
+ },
+ "perclos_60s_recomputed_abs_error_pp": {
+  "mean": 1.664929606781274e-05,
+  "p99": 4.999999883281703e-05
+ },
+ "corrections": {
+  "samples": 1009738,
+  "eye_side_values": 2019476,
+  "proxy_reconstructed_eye_side_values": 13772,
+  "proxy_pct_of_eye_side_values": 0.6819590824550527,
+  "manual_active_samples": 10876,
+  "unknown_samples": 313
+ },
+ "delta_min_s": {
+  "60": 2.4,
+  "180": 5.4,
+  "300": 6.0
+ }
+}

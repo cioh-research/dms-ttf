@@ -1,0 +1,16 @@
+variable,value
+participants_analysed,46.0
+participants_enrolled,50.0
+male,24.0
+female,22.0
+age_mean,22.3
+age_sd,3.6
+driving_experience_mean,5.2
+driving_experience_sd,3.2
+session_morning,16.0
+session_afternoon,30.0
+ethnicity_White,21.0
+ethnicity_Asian,14.0
+ethnicity_Hispanic or Latino,5.0
+ethnicity_Other,4.0
+ethnicity_Black or African American,2.0
